@@ -1,0 +1,20 @@
+# Fdb version 3
+["pdflatex"] 1557470053 "/home/sebastian/repos/gummi-template-example/gummi/main.tex" "/home/sebastian/repos/gummi-template-example/gummi/main.pdf" "main" 1557470053
+  "/etc/texmf/web2c/texmf.cnf" 1548772229 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/home/sebastian/repos/gummi-template-example/gummi/main.aux" 1557470053 8 a94a2480d3289e625eea47cd1b285758 ""
+  "/home/sebastian/repos/gummi-template-example/gummi/main.tex" 1557470052 250 a9a49da0a8042e965f6909fac30bb2af ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/article.cls" 1523050425 19823 fcbc01552b07b608574cbf8e1977e0c0 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo" 1523050425 8294 b0f177401f895563eb19304d2389582d ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1535076666 32752 ce45b90d2fda49befaa367e6f5986072 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1535076666 32752 ce45b90d2fda49befaa367e6f5986072 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1548772275 4232154 21445fdd062fb7d8c86af3f16979af81 ""
+  "main.aux" 0 -1 0 ""
+  "main.tex" 1557470052 250 a9a49da0a8042e965f6909fac30bb2af ""
+  "template/test1" 1557468042 78 f6e7d372c0995267ceae6dd58973b40b ""
+  "template/test2" 1557401261 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "template/test3.tex" 0 -1 0 ""
+  (generated)
+  "main.aux"
+  "/home/sebastian/repos/gummi-template-example/gummi/main.log"
+  "/home/sebastian/repos/gummi-template-example/gummi/main.pdf"
+  "main.log"
